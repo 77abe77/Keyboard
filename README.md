@@ -1,2 +1,3 @@
-# Keyboard
-Hexfile for my current keyboard setup
+# Abe's Keyboard
+
+- http://configure.ergodox-ez.com/keyboard_layouts/qboezn/edit
